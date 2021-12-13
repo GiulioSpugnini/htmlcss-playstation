@@ -1,0 +1,23 @@
+header {
+    height: 80px;
+    border: 1px dotted red;
+    background-color: black;
+}
+
+#top-header {
+    height: 20px;
+    border: 1px dotted red;
+}
+
+.b-red {
+    border: 1px dotted red;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.jumbotron {
+    background-color: gray;
+    padding-top: 80px;
+}
