@@ -1,12 +1,5 @@
-header {
-    min-height: 80px;
-    border: 1px dotted red;
-    background-color: black;
-}
-
-#top-header {
-    min-height: 20px;
-    border: 1px dotted red;
+header img {
+    max-width: 100px;
 }
 
 .b-red {
@@ -18,6 +11,12 @@ header {
 }
 
 .jumbotron {
-    background-color: gray;
     padding-top: 80px;
+}
+
+
+/* COLOURS */
+
+.bg-black {
+    background-color: black;
 }
