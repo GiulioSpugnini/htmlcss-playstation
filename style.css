@@ -53,6 +53,21 @@ header img {
     margin-bottom: -2px;
 }
 
+#ps-plus {
+    background-image: url("img/ps-plus-april-monthly-games-featured-image-block.png");
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+#ps-plus img {
+    max-width: 200px;
+}
+
+#sales img {
+    max-width: 300px;
+}
+
 
 /* COLOURS */
 
