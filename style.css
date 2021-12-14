@@ -6,7 +6,7 @@ header img {
     border: 1px dotted red;
 }
 
-#first-section {
+#first-jumbo {
     padding-top: 100px;
 }
 
@@ -30,6 +30,20 @@ header img {
 
 #secondary-jumbotron {
     background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+}
+
+#first-section img {
+    max-width: 400px;
+}
+
+#first-section .row:nth-child(3) img {
+    max-width: 150px;
+}
+
+#accessories .col-4:hover,
+#accessories .col-md-2:hover {
+    border-bottom: 2px solid dodgerblue;
+    margin-bottom: -2px;
 }
 
 
