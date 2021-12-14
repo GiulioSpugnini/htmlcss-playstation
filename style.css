@@ -73,6 +73,10 @@ footer img {
 
 /* COLOURS */
 
+.bg-beige {
+    background-color: #bebcbb;
+}
+
 .bg-dark-blue {
     background-color: #161c3b;
 }
