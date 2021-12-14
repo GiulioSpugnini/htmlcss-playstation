@@ -18,18 +18,24 @@ header img {
 .jumbotron {
     background-image: url("img/jumbo-bg.png");
     background-size: cover;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
 }
 
-#carousel img {
-    max-width: 200px;
+#carousel img,
+#second-carousel img {
+    max-width: 150px;
     border-radius: 20px;
     margin-top: 20px;
 }
 
 #secondary-jumbotron {
+    margin-top: 50px;
     background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+}
+
+#first-section {
+    margin-top: 100px;
 }
 
 #first-section img {
@@ -48,6 +54,10 @@ header img {
 
 
 /* COLOURS */
+
+.bg-dark-grey {
+    background-color: #1f1f1f;
+}
 
 .bg-white {
     background-color: #fff;
