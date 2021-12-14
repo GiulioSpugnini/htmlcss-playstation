@@ -38,7 +38,8 @@ header img {
     margin-top: 100px;
 }
 
-#first-section img {
+#first-section img,
+#second-section img {
     max-width: 400px;
 }
 
