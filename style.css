@@ -35,6 +35,10 @@ header img {
 
 /* COLOURS */
 
+.bg-white {
+    background-color: #fff;
+}
+
 .bg-black {
     background-color: black;
 }
