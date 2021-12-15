@@ -103,6 +103,11 @@ footer img {
     margin-top: 0;
 }
 
+.nav-item .text-secondary:hover,
+.d-flex .text-secondary:hover {
+    --bs-text-opacity: 1px;
+}
+
 
 /* COLOURS */
 
