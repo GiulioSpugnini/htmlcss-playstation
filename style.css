@@ -78,6 +78,32 @@ footer img {
     max-width: 100%;
 }
 
+.btn:hover {
+    box-shadow: 0px 0px 0px 2px black inset;
+}
+
+.btn-dark:hover,
+.btn-primary:hover {
+    box-shadow: 0px 0px 0px 2px white inset;
+}
+
+#carousel>div:hover {
+    transition: 2s;
+    animation: selected;
+}
+
+@keyframes selected {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 100px;
+    }
+    0% {
+        top: 0;
+    }
+}
+
 
 /* COLOURS */
 
