@@ -108,6 +108,19 @@ footer img {
     --bs-text-opacity: 1px;
 }
 
+.nav-item .dropdown-menu {
+    min-width: 100vw;
+    top: 55px;
+    left: -550px;
+    text-align: center;
+}
+
+.nav-item .links {
+    top: 240px;
+    list-style: initial;
+    color: dodgerblue;
+}
+
 
 /* COLOURS */
 
